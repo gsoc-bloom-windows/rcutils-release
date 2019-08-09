@@ -1,4 +1,0 @@
-Source: ros-dashing-rcutils
-Version: 0.7.3
-Description: Package containing various utility types and functions for C
-Build-Depends:
